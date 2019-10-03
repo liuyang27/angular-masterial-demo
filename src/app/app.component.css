@@ -1,0 +1,17 @@
+.mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .example-container {
+    height: 400px;
+    width: 500px;
+    overflow: auto;
+  }
+
+  tr.mat-footer-row {
+    font-weight: bold;
+  }
